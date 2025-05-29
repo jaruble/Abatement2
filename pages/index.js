@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import { Button } from "@/components/ui/";
-import { Input } from "@/components/ui/";
-import { Card, CardContent } from "@/components/ui/";
+import { Button } from "@/components/ui/button.js";
+import { Input } from "@/components/ui/Input.js";
+import { Card, CardContent } from "@/components/ui/Card.js";
 
 const categories = [
   {
